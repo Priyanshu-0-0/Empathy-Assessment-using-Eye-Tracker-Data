@@ -10,7 +10,7 @@ In oder to run the file follow the following Steps<br><br><br>
 
 Step 1<br>
 Install all the Libaries/Pacages Required for the Code<br>
-For refernce  - https://packaging.python.org/en/latest/tutorials/installing-packages/<br><br><br>
+For reference  - https://packaging.python.org/en/latest/tutorials/installing-packages/<br><br><br>
 
 Step 2<br>
 Download the data set from the link <br>
